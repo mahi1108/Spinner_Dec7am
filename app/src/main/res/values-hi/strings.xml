@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Spinner_Dec7am</string>
+    <string name="sg">लिंग चुनें</string>
+    <string-array name="gender">
+        <item>चुनते हैं</item>
+        <item>पुरुष</item>
+        <item>महिला</item>
+    </string-array>
+</resources>

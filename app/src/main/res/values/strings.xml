@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Spinner_Dec7am</string>
+    <string name="sg">Select Gender</string>
+    <string-array name="gender">
+        <item>Select</item>
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+</resources>
